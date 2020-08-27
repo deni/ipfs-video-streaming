@@ -5,6 +5,7 @@ For Exile Jam 2018 i tested out streaming video over IPFS. My main interest was 
 
 I was happy to see that it was indeed possible. Above is the website I designed to test it out, which you are welcome to try [using a gateway](https://gateway.ipfs.io/ipns/XXX) or [directly over IPFS](/ipns/XXX) if you're on the network.
 
-## Advantages
+![A screenshot of the simple web page that allow navigation to a movie.](screenshot.png "Blender Foundation open movies")
 
+## Advantages
 One of my motivations behind using IPFS is the low amount of ressources needed to host content that can be served to an unlimited number of people. Since every IPFS client hosts the content they access, the site's capacity will exponentially increase with every current visitor.
