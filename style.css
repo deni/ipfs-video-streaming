@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+}
+
+.imgContainer{
+	float:left;
+	width: 25%;
+}
+
+.posters {
+	line-height: 0;
+}
