@@ -1,4 +1,4 @@
-# IPFS-video-streaming
+# IPFS video streaming
 Website to showcase video streaming over the InterPlanetary File System.
 
 For Exile Jam 2018 i tested out streaming video over IPFS. My main interest was whether it was possible to create a video on demand platform on IPFS that would perform well.
